@@ -1,0 +1,29 @@
+Länder:
+	Diamanten(Karo)
+	Eisen(Herz)
+	Stein(Pike)
+	Holz(Laub)
+
+Personen:
+	Herrscher(König)
+	Prophet()
+	Volksvertreter
+	Vernatiker
+
+Waffen:
+	9
+	8
+	7
+	6
+
+Landmarken:
+	5
+	4
+	3
+	2
+	Königreich(Ass)
+
+Spielregeln:
+	Reihenfolge der Waffenstärke Diamant > Eisen > Stein > Holz
+	Reihenfolge der Länder Holz > Stein > Eisen > Diamant
+	

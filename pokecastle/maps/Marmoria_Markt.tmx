@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="26" height="26" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="indoor_map" tilewidth="16" tileheight="16">
+  <image source="indoor_map.png" trans="ff00ff" width="256" height="256"/>
+ </tileset>
+ <layer name="Boden" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJzt1DEOgCAMBdBOyAmQO7rIJfQGnFc2GhPQb2mjicMfGOgLhE8iovTns5mAPJ3rS2YgiMP3xZIMBHH4vtXI6WUxciTGHWfUO7Zyetbobl45aCdRx1HtrtTwbO5WsrN1oNpdJ3Rix8knU2IhnQlGjvT+rM6EWlrvW6O/rXlaf0TL13bemgM7ojEu
+  </data>
+ </layer>
+ <layer name="Objekte" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFwxmEAXE4FfWGAHEoFrVpQJxOpj3Y9KYAcSqZ5hECXXjkoik0OxcJN+BRp0WhPbVIuB6Pumo0N42C4QvKgLh8AOzBVSZQ2x5alQltQNxOA3OJAbCwo1UYwgAs7GhZro4CyoE+EBsMtCMGEAAAihQTfg==
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,2 @@
+0001		Alerbastia		Stadt
+0002		Route 1			Route

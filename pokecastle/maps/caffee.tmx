@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="26" height="26" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="indoor_map" tilewidth="16" tileheight="16">
+  <image source="../../../../../../xampp/htdocs/pokecastle/maps/indoor_map.png" trans="ff00ff" width="256" height="256"/>
+ </tileset>
+ <layer name="Kachelebene 1" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJzt1DEKwDAMQ1HPPUJvGcj96ZQl1OmPLQIlGbTqoUXFzMqGuZyo+28nWa/vr04yHukfedSZ6X/z6Jao0UI2ZbbQTYotZJNiC9mkMlqOc5yRo7S+/mCVo7DoX69yMtaMEfGi/dRT9f8tD0NyH1A=
+  </data>
+ </layer>
+ <layer name="Objekte2" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFAwWUBtoBo2BAgQ4ONjXMG4oA3f24/DPU/YkOiPU3KeboYBEbDgCbf6jlx4EIq5EQZ6OAMNAHYoOBdsQgAADsMQNu
+  </data>
+ </layer>
+ <layer name="Objekte" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFQxl0A3EvHexZDcRrB9BOegBkf9HSj7OBeC4WNiX2gvT1oOlFDj/0sCQ3bEH61pCpFx/A5n5kuV4i1BED8LkfPbxg6qiRFogxAz0tRJNhD7IZuMIKPe6zybAHV1jhA9VAnEuGXfgANj/WAHEtFcxBjjNqpXts5qDHO60AtjxPadomVj+lZTm964JRMDAAABy+OYA=
+  </data>
+ </layer>
+</map>

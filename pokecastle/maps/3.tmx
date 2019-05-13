@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="26" height="26" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="Route_map" tilewidth="16" tileheight="16">
+  <image source="Route_map.PNG" trans="ff00ff" width="256" height="240"/>
+ </tileset>
+ <tileset firstgid="241" name="town_map" tilewidth="16" tileheight="16">
+  <image source="town_map.PNG" trans="ff00ff" width="523" height="271"/>
+ </tileset>
+ <layer name="Gras" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJzllkEKwjAQRbNX6gEs7QUELyD0ABa9ivdfOYUGhmEm/T9NQXDxlp2X/xOaDCmlAWASXiBv4So8hFn4EHPztwz96rCeiZi7rPW5wRx4RmK2noGgs9gMds3sbM/jZel3zP1nz004CeeDPS1z/ZKnRX/ZcxcuBZf21TiZ/8GeLms9bJfag3RX67P3QY0r+0ou7+5h+kP3zPMsmboVJlsp09Z9rZ2IN8qEvA2YTqNMrAfp1MvEepCz2doTuY7w2D3Tb7bWHp0pOm9fheeeJQ==
+  </data>
+ </layer>
+ <layer name="Pfade" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUwAA7EHNAMScN7XEHYg8gNgdiSRraAwPidLRHkwERhuiYWmEKCz9kDApLSyjbk0r2YAP0DMtRewavPaA0SMt0NgpGwUgDAFz1BZE=
+  </data>
+ </layer>
+ <layer name="Bäume &amp; Objekte" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJzdld0KgCAMhX3/tyjozpt6g3qyDDo0pP05C+qDkYjubHOxlL5FZvbnYkvQ91BsVPY9Ot5YIzkgRhrrWmw71xP5Yn9KMjldOcAvYvTEqulQ4Bcx0hysvixnar/WezgH47h7e08dpHtcX0XQ8tHuvg33r7Yg1RP9yNWnV+5Sn1v67SAzaytWnSgejbs8nuj/KD37UaLHnDvQathLR+PLOrSGLXOxhb/p1HN+B9DtSAc=
+  </data>
+ </layer>
+ <layer name="Bäume &amp; Objekte2" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAtWAjEi2hsx3C0ZyMQb6KDPQeB+BAd7BkFo2AUjIJRQBkYbvUcre2BmT9qz9AAAD+/Egs=
+  </data>
+ </layer>
+ <layer name="Häuser" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJztzckNgDAUA9GfElgaYWmEpRFCGg9QANMCEr55pHe1I5z7r4oLNx7hT5MiWnTok+5nYHvEhFn4s7C9YsMu/DnYzjhRhD/OOefcl16hNAgD
+  </data>
+ </layer>
+</map>

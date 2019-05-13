@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="26" height="26" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="Route_map" tilewidth="16" tileheight="16">
+  <image source="Route_map.PNG" trans="ff00ff" width="256" height="240"/>
+ </tileset>
+ <layer name="Grass" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJwrYGBgKBjFIwan4sDDyZ6BDuNRPIpHMeWYC4i5oZiHhnZoAbE0FMvQwQ4Q1qGBv6TQ7EDG1PTXSLJHh0pxxIXHDmr6yYtO9hTQyB4AslgMqw==
+  </data>
+ </layer>
+ <layer name="Pfad" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJztVVsKgCAQtDpBeILoBNEJqvvfKRdcEHGZ9RUIDcxHqDs6O6YxP1picpwjLh10VsfT8fY8HPcOWqRjg+/La9n09CKQZ1uiZqxdC/bsKdTh3iKPpXpaHWmfPXTQPKk3LdbHtaQz0xjKdq1nBE22W3lbO/6ljqaHLXQ0PURZ0GYF7QVlYdSsIO9Sdfi/p7nHBOSNpEPr+D1D9xjVQmO5YO/itz3HFw1CD1LU+jIqXq5FEBE=
+  </data>
+ </layer>
+ <layer name="Berge" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJy1lokNwjAMRTMkZYKICVAnQExQOkU3gA1gKBLRLz4fOweHJaulOH6+kjaGV4nhXaakp4IejHW7it+aT/hVH5M8H5MOSbdJj8Q5NvgHYwqvvChXzWtHcWienjBD/Vu1mMl37OBAYsW/sn7Baal5C2cTHv30OFjr8biPo+ELjL0Rh8XxYo3kx7NTX/wcfZkdG43pnPRi2JVi8Ga4xLkmvTm+0JtPOHntsMaa7dG/WewQB/ZaLyfKvZUvavZvDu/BnKfOo7V3rHrUOHouLmLnzWEvByzr/OD/NIdezrJeuS76PqhJjePV3Op9Sbj2Fif/XsJ7LjE882wVnSflMA/2vfkwxxLMsM6XzuC3nLAyeM+U3s0tHJxB+GbIgr2yhOf3xF7W9XJ4HX+jlM7EnllgDnwgH9RsIEU+G3leU64DmOiHMj7h6bv5Dj4Fkpg=
+  </data>
+ </layer>
+ <layer name="Objekte1" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJy9VVsOwjAM2/1vAVK/2D7gBnAD4ATARUiFIkVWk7ithiWL7tE4M0mzLD9swmLWer0uPOqeg/Bo7q0mhsbtRWvfWXhJ9mEuDPB7r8Kbk0NPLh4yP4pZ21zYmKzfBdYF9rbqINO5Cx/Cp6PTum4h03kJ38IPESsCemCR9UHkMz7D2FGdenFb+WTeztQpA+0RrdM9wZwl9vnIWaCoXkd1anVGPGZ6FPP3PI582YJ3tJ4w/5Hz2sb08sH8Z+aCpfcOo+P1OKODsXvm5ozO6P8TaW3wm+E0qaNesT3qzSJW5x/nYMXe52BWb3hvpCZRh5nXLTDzs/ILG/htRA==
+  </data>
+ </layer>
+</map>

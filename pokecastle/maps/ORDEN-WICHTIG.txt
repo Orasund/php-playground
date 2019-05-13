@@ -1,0 +1,21 @@
+Kanto Orden:
+Boden Orden	Vertania	Zugang zum Bergwerk	Blau
+-Vertania Wald
+Stein Orden	Marmoria	Zugang zum Labor	Flint(Vater von Rocko)
+-Mondberg
+Wasser Orden	Azuria		Zugang zur Gärtnerei	Lilly(Schwester von Misty)
+-Felstunnel
+Feuer Orden	Lavandia	Zugang zum Radioturm(?)	Pyro(wohnt bei Mr. Fujis)
+-Kampflabyrinth(Zwischen Orania und Fuchsania)
+Psycho Orden	Saffronia	Zugang Zur Itemfirma
+-???
+Elektro Orden	Orania		Zugang zum Fernhandel
+-Unbekannte Insel(Siehe Artwork)
+Gift Orden	Fuchsania	Zugang zum Freudepark
+-Safari-Zone
+Pfanzen Orden	Prismania	Zugang zur Spielhalle
+
+Zusatzweg, Start in Fuchsania
+-Seeschauminsel
+-Zinoberinsel
+-Alabastia

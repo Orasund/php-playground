@@ -1,0 +1,12 @@
+Todo list:
+1.)Autofight (macht die ganze zeit den gleichen Angriff. Wenn im Roten bereich,5% dann stop)
+2.)Questbeschreibung per Mouseover
+4.)Mehr Icons
+5.)Shop besser machen
+6.)Forum(muss nicht eingebaut sein.)
+7.)Welt(kann sehr simpel sein, so Route für route)
+8.)Vieleicht noch ein Limit und eine Lösch sequenz auch das Doppelposten entfernen
+9.)Autoupdate bei neuer Nachricht. Und kein aktualisieren.
+11.)Levelbare Angriffe
+12.)Natürlich ein automatisches Shoppingcenter. Dann kann man entlich etwas einkaufen.
+13.)Kampfseite mehr in die länge ziehen

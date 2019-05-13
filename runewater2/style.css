@@ -1,0 +1,95 @@
+body{
+				margin: 0;
+				background-color: #e0e0e0;
+				
+			}
+		
+			header,footer{
+				position: fixed;
+				background-color: rgb(0, 0, 0);
+				opacity: 0.8;
+				height: 64px;
+				padding: 3px;
+				width: 100%;
+				color: #fff;
+			}
+			
+			header{
+				top: 0;
+				font-size: 64px;
+			}
+			
+			header img{
+				height: 64px;
+				width: 64px;
+				opacity: 0.8;
+			}
+			
+			header b{
+				opacity: 0.8;
+			}
+			
+			@media (max-width: 704px){
+				header b, .desc{
+					display: none;
+				}
+			}
+			
+			article {
+				margin: 82px 12px 20px 12px;
+			/*
+				column-width: 400px;
+				column-gap: 24px;
+			
+			*/
+			}
+			
+			:hover{
+				opacity: 1;
+			}
+			
+			#user{
+				float: right;
+			}
+			
+			footer{
+				height: 18px;
+				bottom: 0;
+			}
+			
+			th{
+				height: 80px;
+				width: 80px;
+			}
+			
+			#mine, #tower, #arena, #market, #settings{
+				display:none;
+			}
+			
+			.mine, .tower, .arena, .castle, .market{
+				opacity: 0.2;
+			}
+			
+			.mine{
+				background-color: red;
+			}
+			
+			.tower{
+				background-color: blue;
+			}
+			
+			.arena{
+				background-color: green;
+			}
+			
+			.castle{
+				background-color: yellow;
+			}
+			
+			.market{
+				background-color: orange;
+			}
+			
+			.focus{
+				opacity: 1;
+			}

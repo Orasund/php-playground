@@ -1,0 +1,9 @@
+Der Preis ist ein 12. des normalen Preises.
+Bei Bällen ist der Preis 2. des normalen Preises.
+
+Typen:
+1	Heiltränke/Liebe
+2	Pokebälle
+
+1	Trank			25
+2	Pokeball		100

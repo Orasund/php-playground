@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="26" height="26" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="Route_map" tilewidth="16" tileheight="16">
+  <image source="Route_map.PNG" trans="ff00ff" width="256" height="240"/>
+ </tileset>
+ <tileset firstgid="241" name="town_map" tilewidth="16" tileheight="16">
+  <image source="town_map.PNG" trans="ff00ff" width="523" height="271"/>
+ </tileset>
+ <layer name="Kachelebene 1" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJztwzENAAAMBKGT/P6nyugCCaumqqpPD6O0J9A=
+  </data>
+ </layer>
+ <layer name="Pfad" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJxjYBiagB2IOelgjzgQS47aM2oPDewBpWEONKxOA3tAbrcEYg807EkDe4ZqXAyEPbD4p0WcIwPk+Kd2nKPbMxziBQRAcUPreAEBWNzQMl5g9gyXuBmO9rgz0D4NDAUAAK65B6E=
+  </data>
+ </layer>
+ <layer name="Objekte 1" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJzNlNEJwzAMRD19N2j/W/BnPtoN2jFKh6kCOTgOyVLSBnJw2MGynm0UtXYcncznot/mz4p49sU8Lb6bH8tc1Z054jFCyMdz9tP8kri1HC9v5llX863I2cKYJJdy+p85eMs97qPC+ffmeFyP02R/VndVRXWN2sGozEgcX+GM/qvKufWcGQc1FJ25yxriNW/GgbiOdM1TxtO4LuY1ldb0iOft471eb+H4SBHHuwfHa06Ni3oSc3gPRtxj9Gaanz16N1Z0Dz7XqG8ox/s/W/N7ZJXhcSKuvo9+R/mj/zSr9xH3l/x6r6wPbs1f5R5tRD3tPX4B7+070Q==
+  </data>
+ </layer>
+ <layer name="Objekte 2" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJxjYBicYCEQLyJDPan6SAWj9ozaM2oP9e2htr20tgfd/OEeP6P2jGx7aGUvIXsotY9Y88ktJ0g1n1h7aR0ugxUAAITNWZY=
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,40 @@
+Kampfsystem
+Das Kampfsystem, als abrufbares script.
+Jenachdem was übergeben wird, wird erschiedenes ausgerechnet und gezeigt.
+
+Quests
+Jenach Level verschiedene  Quests, und auch Endbosse, mit versiegelung(Eventuell zusammen mit Welt.)
+
+Welt
+Öffentlicher Kampf, Endbosse als Multiplayerquest Welt als Ort wo sich alles Abspielt.
+Webseite vereinheitlichen
+
+Items
+Kleidung, Heilzeug, Material einige Grundlagen aufbauen, mit verbesserungsmögichkeiten als Plug-ins.
+
+Routen
+Eine begebare Welt. In jeder Route gibt es eigene Monster und Quests, so wie manchmal auch Items.
+
+Shops
+Ein Laden der alles Moderne verkauft, bei ihm kann man altes los werden.
+
+Häuser
+Häuser wo man reingehen kann, Städte und kleine Siedlungen(Kleine Hotspots.)
+
+Erfindungen
+Eigenes Erfinden, Ganz neue Sachen erschaffen.
+
+Eigene Betriebe
+Möglichkeit eigenes In Shops zu verkaufen.
+
+Währung
+Steigung und Senkung der Währung durch erneuerung(Ansatz vorhanden)
+
+Gilden
+Möglichkeit Gruppen zu bilden.(Einbringen des Forums)
+
+Industrialisierung
+Gilden als Handwerker, die Versuchen Sachen zu verkaufen.
+
+Kriege
+verdeckte Kriege, zwischen zwei Gilden, kein ausenstehender bekommt etwas mit.

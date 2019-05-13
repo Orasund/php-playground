@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="26" height="26" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="Route_map" tilewidth="16" tileheight="16">
+  <image source="Route_map.PNG" trans="ff00ff" width="256" height="240"/>
+ </tileset>
+ <tileset firstgid="241" name="town_map" tilewidth="16" tileheight="16">
+  <image source="town_map.PNG" trans="ff00ff" width="523" height="271"/>
+ </tileset>
+ <layer name="Grass" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJwrYGBgKKABzqORuaP2DD176G0XvewbxaN4FI9iWuFwII5Aw5E0sCcdiDuBeAYSnkkDe8qBOJNOYUcL949i2mMAUuAoBg==
+  </data>
+ </layer>
+ <layer name="Pfad" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJzllT9LA0EQxedDiJ8saiyiTYhYJDYhYiE2oliITfxXGKtr833SB/wazsAuefuY3bs97fLgx3GT3DzmzV4ikuoVuA+1gXIEHIf6hK5TZRYwHSiHcJ/TmK5R3H+ffby9xP5L+vztn+bJzcGq8TkDzqG/nbF5pv+D+HOhz4x8kCvwKc0yAS/0iz4vygp8VoHngg/2w75xBlT0sT4D8PE+Zx+vH9ZHssv9FvqMe/rwXJwV59/VZyn+rlm8E+O7wofl5cRZ4e/gvIMPvpfxnc2dXS+rqDYfFOfn5YRZlVTyKX2X/y8sqxNlCJw6z95Jmr0Hn13WhfKkfAQ+HZ8aSj6XTt32+yVp1l3w9vGjXCs3js9C0oxrsH1sgY3TH8W760ub3mW3t8ijpPvsgj3j7UZo7i3Uc/ss6S/PrMM9XptMvY+PZRnPfgP1plAzHztr3jvappp5eM/4jv4Cp5S1rw==
+  </data>
+ </layer>
+ <layer name="Berge" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJybysDAMBUJkwvSoLQIEItRYM6oPaiA0ngh1R4YbqGRPeggZQTb08aACO9peOwJBeIwCuxJwyKGyz/oageDPcjhhBxW1LYHm/tx2bOfxva4ALEbEJ9HYtPCHmL1TmHALCPwxcdCIF5Ehj2kgo1AvIkO9hwE4kNQ9nUk8SdouIxCe4gF6PaSiocC2I/G3oqE9xMQJwWcR2MfRcLnCYjjAqFYMHoZTg2AzVxK0zougG4uLewBAGTqTTU=
+  </data>
+ </layer>
+ <layer name="Häuser" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJztjbkRgDAAw8IgPIsAWSSBRXgWh0QZwkeBdafCjRWCMcYYY/7Mgy+WNjpdp+d7wBEnYWfme8EVo7CT+M644S7sHHyfeOEt7HxJBdCSB/Q=
+  </data>
+ </layer>
+ <layer name="Objekte1" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJztltEKgCAMRff/f1Hgow/1B/Vl6cPoJhsqbQbSgeGD895lK0Z0s6RYSSZCEKytsHY+t6XYi/0AulhHrw9rZ70jxUnPuqVc9Gn1Y20+o3kEIbfHRyPUU8x98BmDsr4F+0C7T28PKzy1JZ8ohKefN1Y9VfMY/Z6ssf4Gf3RG9eTXNczITPdWzmpe/wCcpzz0GZ6RLk2mNcU=
+  </data>
+ </layer>
+</map>

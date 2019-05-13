@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="26" height="26" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="Route_map" tilewidth="16" tileheight="16">
+  <image source="Route_map.PNG" trans="ff00ff" width="256" height="240"/>
+ </tileset>
+ <layer name="Boden" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJxrYGBgaBjFIw4L0cF8GKaHX2hhD7K59PLLKB7FwxELDwI3UBMrDwI3jOJRPNwwAHGZTPo=
+  </data>
+ </layer>
+ <layer name="Wände2" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFgwFMRcKjYHiCUCAOo5NdaQNgTwgDxI+0tieFRnaMRHvaGCgvd9LQ7JkCxC143EEte0AA3U/E2IPsZ2z+ppY95Kihhj3Y4hldDSiOkMNgGhn2oJtBrDmk2kMrQC97RgHxAAB1wxrS
+  </data>
+ </layer>
+ <layer name="Wände" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJztlcENgCAMRTukMoFhAuMExAnUefXShPy0lApcjD/prfTRir9E39T+xNk5ksCJnVi5FoUTPQOo0M/px9memI0IjZypsra3X+RI/Um1JU7pjmtHTumsJ5e/WxjMYWnvMT+LfoK+c5DtURrngBzv/TG39H/lORZH8tA0gKPNnmd6DeZYOQR3ecPB94F1LNVyWvVFDvsfq2YveGMl3254s4u4nsezJWn9Mx/r3QLYXbQ=
+  </data>
+ </layer>
+ <layer name="Kachelebene 4" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJzVVtEKwCAI9P//RHD/uJfFNjlNs4IOYlB6l1ouohdC42DAwcgQrGldATYel/arxHECdHz8DBR3LxdCsdxmYXFa+xFnzfMbQZTrAqPCN6ojCVuvlsi32TP9faOxV1HRqdz36pm37hsZ8yf1JJ2baE/fjez/YbamRrTGq/Y6m9c74xFUewh6U3zn2zeqU80P0tn55lh5xjO9rGdj1S2idQOTvEhn
+  </data>
+ </layer>
+</map>

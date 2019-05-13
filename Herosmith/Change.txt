@@ -1,0 +1,19 @@
+11 Mai	20:30	Klick auf Pfeil bei Figur, link zu Spielerdaten		sidebar
+11 Mai	20:20	<p></p> bei News einbauen.				Index
+11 Mai	30:37	autoflow eingebaut					mainstyle
+
+12 Mai	10:12	Cool Moon Design eingebaut				images_cool
+									mainstyle
+									index
+									infomation
+									Kampfsysteme
+									forgot
+									login
+									myaccount
+									mysettings
+									Quest
+									register
+									shop
+									thankyou
+									werkstatt
+									design

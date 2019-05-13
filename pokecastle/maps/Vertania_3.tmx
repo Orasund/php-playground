@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="26" height="26" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="Route_map" tilewidth="16" tileheight="16">
+  <image source="../../../../Users/Orasund/Kisten/Dokumente/www/maps/Route_map.PNG" trans="ff00ff" width="256" height="240"/>
+ </tileset>
+ <tileset firstgid="241" name="town_map" tilewidth="16" tileheight="16">
+  <image source="../../../../Users/Orasund/Kisten/Dokumente/www/maps/town_map.PNG" trans="ff00ff" width="523" height="271"/>
+ </tileset>
+ <tileset firstgid="753" name="Route_map" tilewidth="16" tileheight="16">
+  <image source="Route_map.PNG" trans="ff00ff" width="256" height="240"/>
+ </tileset>
+ <layer name="Gras" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJwrYGBgKKADTiUCj9ozag8t7KFXuh61Z3Cng1F7Ru0ZLvaM4sGN6RX/g8EeatoFAPHUIPA=
+  </data>
+ </layer>
+ <layer name="Pfad" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJzdllsOwUAUhk+I4F2IDbisQLy6WwA70CVYgh3wzg7YATvAC48ucdmFv8lMnNSMKdN54E++tNN08s1J2zPtEVFPA4ljn8zJgKxiPAWzEPP9eBaeOViQvhZZh2fpWYKVYa5Hdp4CSAhceRqgyfAzAmMFEwuPbt3ctwYbsGUuU/z1t0J6POE6gCM40bOuKMI98jwJUl9QBCVQFuO0wdMGHUYFVAPXwtBVeIYC1XeUA3lwA+cPuQc8qsgapefy5l5drn/qUT2TYH+LwqML7zu/6uG9jvc3W4+qd/K48uh6tq0nZiAekadmoC48RUuP6f+AhEf2RBfv9ZCe36qMC8+AXvdtFx5SeHb0+b6wBw/hmH9J
+  </data>
+ </layer>
+ <layer name="Objekte" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJzdlQEKgDAIRb1kO0L3qhvUDQo6Rt2gOzRog5D+3JyD6IPYyPZqphJhdd5cuB68jQlPLK5UffCTtznhicVp9TXO4m2t4MTno0ecjXT5QZLODd0vFf+uVhzO42vu/66Ord1r1C2pN1ipVc6l/a15cR9Us9a1k8vViu+DuK17KuK34tQql2N1bmhWoB4raQcc69l6FnK053YAjjRjNfl59sjcPqD5r9/eDc20mrqprbkLDIWrbg==
+  </data>
+ </layer>
+ <layer name="Objekte2" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJxjYBhcYCEQL8JDo6ujtT2Ugq9A/A2IvwPxDzz2bKXQHlFGBgYxIBYHYglG/OHGwEC+f02BZpsBsTkQWxCwh5JwDQWaHQbE4UAcwUiCRhJBKdDsMiAuB+IKGtozCigHhPIstfIusWmZ2mUFIXspNReXObSyh9bxM1jsoVa4ERKnV51Hr3RA63Cjd3oYBZQDAGQlaEo=
+  </data>
+ </layer>
+</map>

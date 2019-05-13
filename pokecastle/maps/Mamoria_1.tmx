@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="26" height="26" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="Route_map" tilewidth="16" tileheight="16">
+  <image source="Route_map.PNG" trans="ff00ff" width="256" height="240"/>
+ </tileset>
+ <tileset firstgid="241" name="town_map" tilewidth="16" tileheight="16">
+  <image source="town_map.PNG" trans="ff00ff" width="523" height="271"/>
+ </tileset>
+ <layer name="Gras" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJztwzENAAAMBKGT/P6nyugCCaumqqpPD6O0J9A=
+  </data>
+ </layer>
+ <layer name="Pfad" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFlABWIGaDssOBOIIMTAxwBWI3KDsdiDPIwAxo9kYSsHM6EM8gAzOg2ZtJpB/JASD72ulgDwjAwn0k2wNL44TSDrn2wMwvJ8NtpNiDnodobU8nAyStzqSxPeSkmVF7cKvFV6aTkkYJ2UNMmU5Ne2DpERmTUo4Saw82eVxy2MIaFsaVWOQIyeOKH3LrT0IY5AbkcpHc+hMbBsUNcpyRUo6QAqbT0GxiAAAnY2W1
+  </data>
+ </layer>
+ <layer name="Objekte 1" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJztk9EJAjEMhvviaG7gOYE4gSOIE6jvPegAuoGOoQ5jHhoIP2kurT24B3/4yUF6+ZKUxhDCSI45oqKRt3KoG/kuYk0ec3uD8yA/RazJY87irLJ7yOKss+fm8G49d9mDI+95Qx4qvDU43D/Xl/e8c/Y/QH2Ng3PIGQ4ORhLfNRzvDBrLw+F9tXBYHg5rLg6+by/nRL6ArwYHdRb/HY1zVi0PB5kv8pv8CXrvPTglaTvz9lD6V5vHqjOlllnT9JEunBYteR7kJBFLPSx5b3/Ob2+vRl/fo1+F
+  </data>
+ </layer>
+ <layer name="Objekte 2" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAeSMMithCIF1HRDlxgIxBvooM9B4H4EJXNvItHjprh93YQ20OO/ffIsIda6QRmPi57qJVO6JV/6GXPUADoYUGrsEFPi7Qqw9DTIi3KsFEwvMBovU05IFRHEBLHFwfIcrAwxBWWhMTxxQGyHCwMcYUlIXF8cQCTAwAm1zvX
+  </data>
+ </layer>
+ <layer name="Häuser" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJztlLkJgEAQRdcyPBrxKEMFj1DswaMMtVePwB9MYLCwu7CTyDx40cC87CslCGZOeMEbPoydMFAqgjFMAr5Oit8ZzGFBnRJWZO2p0+B3CzvYU2f43EdPnQm/Z7jAlbGjY4M7eTB2hH9i2hZf22PaFl/bo9sWl7stum1xudui2xaXuyDY8gLR+h8j
+  </data>
+ </layer>
+</map>

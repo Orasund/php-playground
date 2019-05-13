@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="26" height="26" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="Route_map" tilewidth="16" tileheight="16">
+  <image source="Route_map.PNG" trans="ff00ff" width="256" height="240"/>
+ </tileset>
+ <tileset firstgid="241" name="town_map" tilewidth="16" tileheight="16">
+  <image source="town_map.PNG" trans="ff00ff" width="523" height="271"/>
+ </tileset>
+ <tileset firstgid="753" name="Route_map" tilewidth="16" tileheight="16">
+  <image source="../../../../Users/Orasund/Kisten/Dokumente/www/maps/Route_map.PNG" trans="ff00ff" width="256" height="240"/>
+ </tileset>
+ <layer name="Gras" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJztkj0OgCAMRrkoOuHmzwWMm5tx0g28qjXRxJhAW4rGgeHNr+8Do5QyBDohXzj+4Bk/7BkTOTBPBWig8FBGeo77lxsrUAONh4Hhwu7vA57LRWl7ekL3Y76Qi7MTRkvcUBN2SrGhpIXTlT3/9ljAnUwvelK1cTxW0MTxxDbNwMb0XO/F6eK2+P4H9k8kHqrbRWyWCbMDfB0nyg==
+  </data>
+ </layer>
+ <layer name="Pfade" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAP0qCY1mA42TMViKfRwR5ku0bB8ADsQMwBxZw0tMcdiD2A2ByIJWloDwyIj9oz6O3RZKBtmgMBWLrzpLE9o2AUjIKhBwBBMAgB
+  </data>
+ </layer>
+ <layer name="Objekte" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJxjYCAOLATiRRTQxIKNQLyJAppYcBCID5FBk2oPuYCQPWlUsgfmLxhoA+KpSHgalexBB9Ry/0DbQ+twIjX/kAvIzUej9tDHnsFW/gxVe2iVn2Dm0jo9UFrvEQvQ0xutww+Xv6htH7ntB2LbNbjSAS5/odPEqqe0nUQqTW57iVQaAIz+k2A=
+  </data>
+ </layer>
+ <layer name="Objekte2" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJztkrcNgEAQBP+LwDSCaQTTCKYd6BETMiEBIMwfSOhWmuw0k5wxuivroHfsHGCECWbH7vU8a4wPAYRWrhPhjiGBVLCT4c6hgFKwU+GuoYFWsHM0ib/b8mvnWU872vnTf3/VkertdVz37nbO3r/1z29vAdl1Mzk=
+  </data>
+ </layer>
+</map>
